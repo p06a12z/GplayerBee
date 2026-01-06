@@ -1,0 +1,14 @@
+{
+    "gsc.name": "Glow Stats Client",
+    "gsc.description": "Client-side mod for player glow effect and fake statistics",
+    "commands.gsc.glow.enabled": "Glow effect enabled for all players!",
+    "commands.gsc.glow.disabled": "Glow effect disabled.",
+    "commands.gsc.glow.status": "Glow effect is currently %s.",
+    "commands.gsc.fakestats.set": "Set fake stat: %s %s = %d",
+    "commands.gsc.fakestats.remove": "Removed fake stat: %s %s",
+    "commands.gsc.fakestats.reset": "Reset all fake stats!",
+    "commands.gsc.fakestats.enabled": "Fake stats enabled!",
+    "commands.gsc.fakestats.disabled": "Fake stats disabled.",
+    "commands.gsc.fakestats.invalid_type": "Invalid stat type! Valid types: mined, broken, crafted, used, picked_up, dropped",
+    "commands.gsc.fakestats.invalid_id": "Invalid item ID: %s"
+}
